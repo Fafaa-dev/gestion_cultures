@@ -1,6 +1,6 @@
 # Gestion des cultures
 
-Projet Java de gestion d'un parc de cultures agricoles.
+Projet de gestion d'un parc de cultures agricoles.
 
 ## Description
 
@@ -18,7 +18,6 @@ Le programme permet de calculer :
 - Java
 - Maven
 - MySQL
-- JDBC
 
 ## Structure du projet
 
@@ -30,7 +29,7 @@ Le programme permet de calculer :
 - `Cultures.java` : gestion de la liste des cultures
 - `Connexion.java` : connexion à MySQL
 - `Main.java` : programme principal
-- `database/gestion_cultures.sql` : création de la base MySQL
+- `database/gestion_cultures.sql` : création de la base de données
 
 ## Installation
 
